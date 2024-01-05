@@ -12,7 +12,7 @@ Our implementations included k-Nearest Neighbours, Support Vector Machines and L
 
 ## **Results**
 
-We obtained fairly high accuracies acorss all 3 models tested. For each model, test accuracy was > 83%. We observed that from a relative standpoint, the Logistic Regression model provided the lowest accuracy, while the SVM model provided the highest accuracy. From the confusion matrices, we also found that Leukemia subytpe 4 (B-CELL_ALL_HYPO) was most misclassified as Leukemia subtype 1 (B-CELL_ALL) across all three models. This observation could be attributed to similarites in expression levels between the two subtypes, causing their misclassification with each other.
+We obtained fairly high accuracies across all 3 models tested. For each model, test accuracy was > 83%. We observed that from a relative standpoint, the Logistic Regression model provided the lowest accuracy, while the SVM model provided the highest accuracy. From the confusion matrices, we also found that Leukemia subytpe 4 (B-CELL_ALL_HYPO) was most misclassified as Leukemia subtype 1 (B-CELL_ALL) across all three models. This observation could be attributed to similarites in expression levels between the two subtypes, causing their misclassification with each other.
 
 ## **Collaborators**
 + Zubin Roy
