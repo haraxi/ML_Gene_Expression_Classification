@@ -1,7 +1,7 @@
 # Prediction of Leukemia Subtypes from Gene-Expression Data: A Machine Learning Approach
 
 ## **Course Name** 
-Machine Learning for Scientists: 02-620
+Machine Learning for Scientists (02-620)
 
 ## **Overview**
 
